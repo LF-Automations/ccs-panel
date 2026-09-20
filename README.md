@@ -26,10 +26,11 @@ O desenvolvimento deste painel foi estruturado para demonstrar a aplicação pr�
 ## Instalação e Configuração
 
 1. Clone o repositório localmente:
+```
 git clone git@github.com:LF-Automations/ccs-panel.git
 cd ccs-panel
 chmod +x ccs.sh
-
+```
 2. Configure as Variáveis de Ambiente:
 Para que os módulos de notificação (E-mail SMTP) e Auditoria de IA funcionem, crie um ficheiro oculto de credenciais no diretório home do seu utilizador:
 
