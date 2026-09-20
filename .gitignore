@@ -1,0 +1,4 @@
+logs_suporte.txt
+*.gpg
+*.tar.gz
+.senha.sh
